@@ -31,12 +31,12 @@ To Do
   - [jQuery.tmpl](https://github.com/jquery/jquery-tmpl)
   - [Date.js](http://www.datejs.com/)
   - [Spin.js](http://fgnass.github.com/spin.js/)
+  - [HighCharts](http://www.highcharts.com/documentation/how-to-use)
 - Create index.html
   - Container for logs
   - Container for graph
 - Create log template
 - Implement log logic
-- Create graph template
 - Implement graph logic
 - Create dotcloud.yml file
 - Modify the mysql project to work in production

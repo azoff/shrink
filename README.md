@@ -50,3 +50,4 @@ Backlog
 - More themes
 - Password protection
 - Responsive layout
+- AT&T App Store (http://9to5mac.com/2012/01/09/att-unveils-own-api-for-html5-web-apps)
